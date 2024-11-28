@@ -28,6 +28,7 @@ This API contains information about music artists, albums, and songs - [Spotify 
 pip install pandas
 pip install numpy
 pip install spotipy
+pip install boto3
 ```
 
 ### Project Execution Flow 
